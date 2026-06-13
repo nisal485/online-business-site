@@ -14,4 +14,4 @@ CREATE TABLE IF NOT EXISTS products (
     description TEXT
 );
 
-INSERT INTO products (name, price, description) VALUES ('Laptop', 150000.00, 'Core i5 Laptop');
+INSERT INTO products (name, price, description) VALUES ('Sample Core i5 Laptop', 150000.00, 'High performance laptop for development.');
